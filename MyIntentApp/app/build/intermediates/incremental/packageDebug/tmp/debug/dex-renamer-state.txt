@@ -1,0 +1,4 @@
+#Sat Aug 03 11:37:09 WIB 2019
+base.0=/home/asuspc/AndroidStudioProjects/Dicoding/MyIntentApp/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
